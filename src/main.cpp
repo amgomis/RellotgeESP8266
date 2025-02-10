@@ -106,8 +106,8 @@ float temperature, humidity;
 #endif
 
 // Credencials WiFi
-const char* ssid = "ADAMO-6C1B";
-const char* password = "TYydcGhQ";
+const char* ssid = "ADAMO-xxxx";
+const char* password = "xxxxxxxxxx";
 
 // Definició configuració de OLED 
 #ifdef OLED
