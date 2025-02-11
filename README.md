@@ -10,4 +10,4 @@
 ###  
 ###  Primera versió 10/02/2025   (poden caldre algunes millores)
 ###  
-### 
+###  Properse millores multiwifi
